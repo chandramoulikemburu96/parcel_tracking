@@ -14,8 +14,8 @@ Virtual environment (optional, but recommended)
 
 ## Clone the repository
 
-<!-- git clone https://github.com/kemburuchandramouli/tracking-number-generator.git -->
-https://github.com/kemburuchandramouli/Valuelab_parcel_tracking.git
+<!-- git clone https://github.com/chandramoulikemburu96/tracking-number-generator.git -->
+https://github.com/chandramoulikemburu96/Valuelab_parcel_tracking.git
 cd tracking-number-generator
 
 ## Set up a virtual environment
